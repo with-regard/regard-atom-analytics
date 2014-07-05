@@ -1,0 +1,14 @@
+{
+  "name": "regard-analytics",
+  "main": "./lib/regard-analytics",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "repository": "https://github.com/atom/regard-analytics",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "dependencies": {
+    "regard-js-client": "^0.7.0"
+  }
+}

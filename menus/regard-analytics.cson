@@ -1,0 +1,17 @@
+# See https://atom.io/docs/latest/creating-a-package#menus for more details
+'context-menu':
+  '.overlayer':
+      'Enable regard-analytics': 'regard-analytics:toggle'
+
+'menu': [
+  {
+    'label': 'Packages'
+    'submenu': [
+      'label': 'regard-analytics'
+      'submenu': [
+        { 'label': 'Toggle', 'command': 'regard-analytics:toggle'}
+        { 'label': 'My data', 'command': 'regard-analytics:my-data' }
+      ]
+    ]
+  }
+]

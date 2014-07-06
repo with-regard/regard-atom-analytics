@@ -7,7 +7,7 @@
   {
     'label': 'Packages'
     'submenu': [
-      'label': 'regard-analytics'
+      'label': 'Regard'
       'submenu': [
         { 'label': 'Toggle', 'command': 'regard-analytics:toggle'}
         { 'label': 'My data', 'command': 'regard-analytics:my-data' }

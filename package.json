@@ -1,7 +1,7 @@
 {
   "name": "regard",
   "main": "./lib/regard-analytics",
-  "version": "0.4.1",
+  "version": "0.5.0",
   "description": "A package that submits usage data to https://www.withregard.io",
   "repository": "https://github.com/with-regard/regard-atom-analytics",
   "license": "Apache",
